@@ -1,0 +1,11 @@
+Git Hub Commands and their functions
+
+		command					Function
+
+           1.	git status					show modified files in working directory
+           2.	git commit -m "<Message >"			commit your staged content as new commit snapshot
+           3.	git config --global user.name "<username>"	set a name that is identifiable for credit when review version history
+           4.	git config --global user.email "<valid-email>"	set an email address that will be associated with each history marker
+           5.	git clone [url]				retrieve an entire repository from a hosted location via URL
+           6.	git push -u origin master			Transmit local branch commits to the remote repository branch
+           7.   git remote add <remote name> <url>		Manage the set of repositories ("remotes") whose branches you track.
